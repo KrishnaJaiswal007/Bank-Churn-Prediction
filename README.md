@@ -2,7 +2,7 @@
 
 An end-to-end data science project that predicts whether a bank customer will churn using Machine Learning, explains predictions using SHAP, and analyzes customer complaints using NLP sentiment analysis.
 
-🚀 **Live Demo:** [Hugging Face Space]([https://huggingface.co/spaces/Krishna-Jaiswal007/bank-churn-prediction](https://huggingface.co/spaces/Krishna-Jaiswal/bank-churn-prediction))  
+🚀 **Live Demo:** [Hugging Face Space](https://huggingface.co/spaces/Krishna-Jaiswal/bank-churn-prediction)  
 📓 **Notebook:** [Google Colab](https://colab.research.google.com/drive/1PZDsbJzN2OPnfsGxwG9Vx7Rp2AXp5Q-6?usp=sharing)
 
 ---
